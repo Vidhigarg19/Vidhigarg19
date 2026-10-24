@@ -43,13 +43,13 @@
     <td align="center" width="50%">
       <img src="assets/icon-kalakriti.png" width="90" /><br/>
       <a href="https://github.com/Vidhigarg19/REPO_KALAKRITI"><b>Kalakriti+</b></a><br/>
-      <sub>AI-driven market-linkage platform for artisans · SIH 2026</sub><br/>
+      <sub>AI-driven market-linkage platform for artisans </sub><br/>
       <sub><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></sub>
     </td>
     <td align="center" width="50%">
       <img src="assets/icon-raahprahari.png" width="90" /><br/>
       <a href="https://github.com/Vidhigarg19/REPO_RAAHPRAHARI"><b>RaahPrahari</b></a><br/>
-      <sub>Hill-road safety and community reports · SAARTHI'26</sub><br/>
+      <sub>Hill-road safety and community reports </sub><br/>
       <sub><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></sub>
     </td>
   </tr>
@@ -57,7 +57,7 @@
     <td align="center">
       <img src="assets/icon-sakshya.png" width="90" /><br/>
       <a href="https://github.com/Vidhigarg19/REPO_SAKSHYA"><b>Sakshya</b></a><br/>
-      <sub>Silent reporting with SHA-256 evidence integrity · Hack the Future 3.0</sub><br/>
+      <sub>Silent reporting with SHA-256 evidence integrity </sub><br/>
       <sub><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
     </td>
     <td align="center">
@@ -112,7 +112,7 @@ My work sits at the intersection of **full-stack development, data science and m
 
 🚀 **Building:** AI-driven products with React, FastAPI, Node.js and PostgreSQL<br/>
 📚 **Learning:** DSA, system design and cloud on AWS<br/>
-🏆 **Hackathons:** Smart India Hackathon 2026 · SAARTHI'26 · Hack the Future 3.0<br/>
+🏆 **Hackathons:** Smart India Hackathon 2026 · Hack the Future 3.0<br/>
 🤝 **Open to:** collaborations, hackathon teams and open-source contributions<br/>
 
 <br/>
