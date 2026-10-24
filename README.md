@@ -12,9 +12,11 @@
 
 *Turning ideas into real solutions through code, data and creativity.*
 
-<a href="mailto:vidhigarg19@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vidhi-garg-b83169358"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Vidhigarg19"><img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="mailto:vidhigarg19@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0820" /></a>
+<a href="https://www.linkedin.com/in/vidhi-garg-b83169358"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0820" /></a>
+<a href="https://github.com/Vidhigarg19"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0820" /></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Vidhigarg19&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge&labelColor=0b0820" alt="Profile views" />
 
 <br/><br/>
 
@@ -31,6 +33,10 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Vidhigarg19&hide_border=true&background=0b0820&ring=a855f7&fire=ec4899&currStreakNum=ffffff&sideNums=22d3ee&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=94a3b8" width="600" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhigarg19&layout=compact&langs_count=6&card_width=600&hide_border=false&border_color=a855f7&border_radius=14&bg_color=0b0820&title_color=22d3ee&text_color=e9d5ff" width="600" alt="Most used languages" />
 
 <br/>
 
