@@ -13,7 +13,7 @@
 *Turning ideas into real solutions through code, data and creativity.*
 
 <a href="mailto:vidhigarg19@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/vidhigarg19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vidhi-garg-b83169358"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Vidhigarg19"><img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=black" /></a>
 
 <br/><br/>
@@ -42,7 +42,7 @@
   <tr>
     <td align="center" width="50%">
       <img src="assets/icon-kalakriti.png" width="90" /><br/>
-      <a href="https://github.com/Vidhigarg19/REPO_KALAKRITI"><b>Kalakriti+</b></a><br/>
+      <a href="https://github.com/Vidhigarg19/Kalakriti"><b>Kalakriti+</b></a><br/>
       <sub>AI-driven market-linkage platform for artisans </sub><br/>
       <sub><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></sub>
     </td>
@@ -56,13 +56,13 @@
   <tr>
     <td align="center">
       <img src="assets/icon-sakshya.png" width="90" /><br/>
-      <a href="https://github.com/Vidhigarg19/REPO_SAKSHYA"><b>Sakshya</b></a><br/>
+      <a href="https://github.com/sskksingh2005/Sakshya"><b>Sakshya</b></a><br/>
       <sub>Silent reporting with SHA-256 evidence integrity </sub><br/>
       <sub><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
     </td>
     <td align="center">
       <img src="assets/icon-fixaura.png" width="90" /><br/>
-      <a href="https://github.com/Vidhigarg19/REPO_FIXAURA"><b>FixAura</b></a><br/>
+      <a href="https://github.com/Vidhigarg19/fixaura"><b>FixAura</b></a><br/>
       <sub>AI home-repair assistant with AR guidance</sub><br/>
       <sub><code>React</code> <code>OpenAI</code> <code>Tailwind</code></sub>
     </td>
