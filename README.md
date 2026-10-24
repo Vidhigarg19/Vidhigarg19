@@ -104,8 +104,18 @@
 
 ## 👩‍💻 About Me
 
-I'm Vidhi, a BTech CSE student passionate about building impactful tech solutions.<br/>
-I love solving problems, learning new things, and turning creative ideas into projects.
+I'm **Vidhi**, a BTech CSE student from Dehradun who loves turning ideas into products that genuinely help people. I learn best by building, so most of what I know comes from hackathons, side projects and shipping things end to end, from the idea and the database to the UI.
+
+My work sits at the intersection of **full-stack development, data science and machine learning**. So far that has meant an AI-powered marketplace for rural artisans, a hill-road safety platform built on community reports, a silent reporting system that protects evidence with SHA-256 integrity, and an AI home-repair assistant with AR guidance.
+
+<br/>
+
+🚀 **Building:** AI-driven products with React, FastAPI, Node.js and PostgreSQL<br/>
+📚 **Learning:** DSA, system design and cloud on AWS<br/>
+🏆 **Hackathons:** Smart India Hackathon 2026 · SAARTHI'26 · Hack the Future 3.0<br/>
+🤝 **Open to:** collaborations, hackathon teams and open-source contributions<br/>
+
+<br/>
 
 `DSA` · `Web Dev` · `Data Science` · `Hackathons` · `Open Source`
 
@@ -113,14 +123,10 @@ I love solving problems, learning new things, and turning creative ideas into pr
 
 <br/>
 
-<img src="assets/scene.png" width="420" alt="Workspace" />
+<img src="assets/scene.png" width="230" alt="Workspace" />
 
 <br/><br/>
 
 *"Small steps every day lead to big results ✨"*
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=a855f7&center=true&vCenter=true&width=420&height=40&lines=Thanks+for+stopping+by!+✨" alt="Thanks" />
-
-</div
+</div>
